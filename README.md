@@ -412,18 +412,6 @@ Potential features for future development include:
 - Responsive mobile interface.
 - Improved conversation search.
 
----
-
-## Contributors
-
-This project is developed as a collaborative software development project.
-
-| Name         | Role                 |
-| ------------ | -------------------- |
-| Project Team | Frontend Development |
-| Project Team | Backend Development  |
-| Project Team | Database Management  |
-| Project Team | AI Integration       |
 
 ---
 
